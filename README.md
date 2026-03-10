@@ -1,16 +1,12 @@
-## Hi there 👋
+# Qui soc?
+Actualment soc un estudiant de Sistemes Microinformàtics i Xarxes a l'institut Rafael Campalans. 
+Soc apasionat per la informàtica i la programació i vull expandir els meus coneixements en aquesta àrea.
 
-<!--
-**Aleix-Gomez/Aleix-Gomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Què vull fer?
+En el futur estudiaré un grau superior de Programació.
+Voldria poder arribar a ser programador de videojocs i fer els meus propis jocs.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Les meves habilitats
+Estic assolint tot el temari del curs que estic fent actualment amb notes excel·lents.
+Tinc coneixements de programació de principiant en HTML, Javascript i Unity.
+He fet molts projectes de programació des de que era petit, i he adoptat una mentalitat lògica de programació, la qual cosa fa que em pugui adaptar a qualsevol llengüatge fàcilment aprenent la seva estructura.
