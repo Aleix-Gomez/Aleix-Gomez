@@ -10,3 +10,5 @@ Voldria poder arribar a ser programador de videojocs i fer els meus propis jocs.
 Estic assolint tot el temari del curs que estic fent actualment amb notes excel·lents.
 Tinc coneixements de programació de principiant en HTML, Javascript i Unity.
 He fet molts projectes de programació des de que era petit, i he adoptat una mentalitat lògica de programació, la qual cosa fa que em pugui adaptar a qualsevol llengüatge fàcilment aprenent la seva estructura.
+
+<a href="https://www.linkedin.com/in/aleix-g%C3%B3mez-garc%C3%ADa-08b0903b4/">Linkedin</a>
